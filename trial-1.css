@@ -136,7 +136,7 @@ html {
   color: #ada9bf;
   margin-top: 0px;
 }
-sidebar-menu {
+.sidebar-menu {
   display: flex;
   padding: 0;
   list-style: none;
